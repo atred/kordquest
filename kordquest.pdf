@@ -1,0 +1,902 @@
+%PDF-1.1
+1 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Italic
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.024 702.988 Td
+(NAME) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 687.599 Td
+(kordquest) Tj
+ET
+BT
+/F0 11 Tf
+133.408 687.599 Td
+(-) Tj
+ET
+BT
+/F0 11 Tf
+139.821 687.599 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+147.455 687.599 Td
+(simple) Tj
+ET
+BT
+/F0 11 Tf
+179.542 687.599 Td
+(text) Tj
+ET
+BT
+/F0 11 Tf
+198.792 687.599 Td
+(adventure) Tj
+ET
+BT
+/F0 11 Tf
+244.915 687.599 Td
+(written) Tj
+ET
+BT
+/F0 11 Tf
+278.828 687.599 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+290.136 687.599 Td
+(Java) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 656.821 Td
+(SYNOPSIS) Tj
+ET
+BT
+/F1 11 Tf
+87.274 641.432 Td
+(javac) Tj
+ET
+BT
+/F1 11 Tf
+115.071 641.432 Td
+(kordquestRunner.java) Tj
+ET
+BT
+/F1 11 Tf
+224.466 641.432 Td
+(&&) Tj
+ET
+BT
+/F1 11 Tf
+245.542 641.432 Td
+(java) Tj
+ET
+BT
+/F1 11 Tf
+268.455 641.432 Td
+(!:1) Tj
+ET
+BT
+/F1 11 Tf
+68.024 610.654 Td
+(DESCRIPTION) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 595.265 Td
+(KordQuest) Tj
+ET
+BT
+/F0 11 Tf
+138.292 595.265 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+148.379 595.265 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+156.013 595.265 Td
+(simple) Tj
+ET
+BT
+/F0 11 Tf
+188.100 595.265 Td
+(text) Tj
+ET
+BT
+/F0 11 Tf
+207.350 595.265 Td
+(adventure) Tj
+ET
+BT
+/F0 11 Tf
+253.473 595.265 Td
+(written) Tj
+ET
+BT
+/F0 11 Tf
+287.386 595.265 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+298.694 595.265 Td
+(Java.) Tj
+ET
+BT
+/F0 11 Tf
+326.491 595.265 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+346.346 595.265 Td
+(player) Tj
+ET
+BT
+/F0 11 Tf
+376.585 595.265 Td
+(starts) Tj
+ET
+BT
+/F0 11 Tf
+402.556 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+418.748 595.265 Td
+(game) Tj
+ET
+BT
+/F0 11 Tf
+445.324 595.265 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+456.632 595.265 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+464.266 595.265 Td
+(small) Tj
+ET
+BT
+/F0 11 Tf
+490.853 595.265 Td
+(house) Tj
+ET
+BT
+/F0 11 Tf
+519.266 595.265 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+533.016 595.265 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+87.274 579.876 Td
+(hill,) Tj
+ET
+BT
+/F0 11 Tf
+107.448 579.876 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+129.756 579.876 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+137.390 579.876 Td
+(townsperson) Tj
+ET
+BT
+/F0 11 Tf
+195.745 579.876 Td
+(who) Tj
+ET
+BT
+/F0 11 Tf
+217.437 579.876 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+237.303 579.876 Td
+(explain) Tj
+ET
+BT
+/F0 11 Tf
+272.437 579.876 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+288.629 579.876 Td
+(adventure.) Tj
+ET
+BT
+/F0 11 Tf
+340.252 579.876 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+360.107 579.876 Td
+(game) Tj
+ET
+BT
+/F0 11 Tf
+386.683 579.876 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+396.770 579.876 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+413.578 579.876 Td
+(very) Tj
+ET
+BT
+/F0 11 Tf
+435.875 579.876 Td
+(long,) Tj
+ET
+BT
+/F0 11 Tf
+460.933 579.876 Td
+(so) Tj
+ET
+BT
+/F0 11 Tf
+473.462 579.876 Td
+(there) Tj
+ET
+BT
+/F0 11 Tf
+498.201 579.876 Td
+(is) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+508.288 579.876 Td
+(no) Tj
+ET
+BT
+/F1 11 Tf
+522.654 579.876 Td
+(save) Tj
+ET
+BT
+/F1 11 Tf
+87.274 564.487 Td
+(functionality) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+149.919 564.487 Td
+(built) Tj
+ET
+BT
+/F0 11 Tf
+172.843 564.487 Td
+(in.) Tj
+ET
+BT
+/F0 11 Tf
+189.651 564.487 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+209.506 564.487 Td
+(only) Tj
+ET
+BT
+/F0 11 Tf
+231.814 564.487 Td
+(way) Tj
+ET
+BT
+/F0 11 Tf
+252.890 564.487 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+264.198 564.487 Td
+(retain) Tj
+ET
+BT
+/F0 11 Tf
+291.995 564.487 Td
+(progress) Tj
+ET
+BT
+/F0 11 Tf
+332.013 564.487 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+342.100 564.487 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+353.408 564.487 Td
+(keep) Tj
+ET
+BT
+/F0 11 Tf
+376.926 564.487 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+393.118 564.487 Td
+(game) Tj
+ET
+BT
+/F0 11 Tf
+419.694 564.487 Td
+(running.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 533.709 Td
+(PLAYER'S) Tj
+ET
+BT
+/F1 11 Tf
+125.774 533.709 Td
+(GUIDE) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 518.320 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 518.320 Td
+(goal) Tj
+ET
+BT
+/F0 11 Tf
+128.821 518.320 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+140.734 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+156.926 518.320 Td
+(game,) Tj
+ET
+BT
+/F0 11 Tf
+186.252 518.320 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+198.165 518.320 Td
+(explained) Tj
+ET
+BT
+/F0 11 Tf
+243.683 518.320 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+257.433 518.320 Td
+(Dungarth) Tj
+ET
+BT
+/F0 11 Tf
+301.730 518.320 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+313.038 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+329.230 518.320 Td
+(starting) Tj
+ET
+BT
+/F0 11 Tf
+364.980 518.320 Td
+(area,) Tj
+ET
+BT
+/F0 11 Tf
+388.795 518.320 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+398.882 518.320 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+410.190 518.320 Td
+(defeat) Tj
+ET
+BT
+/F0 11 Tf
+439.813 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+456.005 518.320 Td
+(evil) Tj
+ET
+BT
+/F0 11 Tf
+475.255 518.320 Td
+(sorceror) Tj
+ET
+BT
+/F0 11 Tf
+514.041 518.320 Td
+(Kord) Tj
+ET
+BT
+/F0 11 Tf
+87.274 502.931 Td
+(at) Tj
+ET
+BT
+/F0 11 Tf
+97.966 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+114.158 502.931 Td
+(top) Tj
+ET
+BT
+/F0 11 Tf
+130.966 502.931 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+142.879 502.931 Td
+(Grand) Tj
+ET
+BT
+/F0 11 Tf
+173.118 502.931 Td
+(Mountain.) Tj
+ET
+BT
+/F0 11 Tf
+221.397 502.931 Td
+(If) Tj
+ET
+BT
+/F0 11 Tf
+231.473 502.931 Td
+(you) Tj
+ET
+BT
+/F0 11 Tf
+250.723 502.931 Td
+(die) Tj
+ET
+BT
+/F0 11 Tf
+266.915 502.931 Td
+(along) Tj
+ET
+BT
+/F0 11 Tf
+294.107 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+310.299 502.931 Td
+(way,) Tj
+ET
+BT
+/F0 11 Tf
+334.125 502.931 Td
+(you) Tj
+ET
+BT
+/F0 11 Tf
+353.375 502.931 Td
+(must) Tj
+ET
+BT
+/F0 11 Tf
+377.520 502.931 Td
+(restart) Tj
+ET
+BT
+/F0 11 Tf
+407.759 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+423.951 502.931 Td
+(game.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+76.274 472.153 Td
+(PLAYER) Tj
+ET
+BT
+/F1 11 Tf
+124.245 472.153 Td
+(COMMANDS) Tj
+ET
+BT
+/F1 11 Tf
+87.274 456.764 Td
+(north) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 441.375 Td
+(Move) Tj
+ET
+BT
+/F0 11 Tf
+134.937 441.375 Td
+(north.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 410.597 Td
+(south) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 395.208 Td
+(Move) Tj
+ET
+BT
+/F0 11 Tf
+134.937 395.208 Td
+(south.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 364.430 Td
+(east) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 349.041 Td
+(Move) Tj
+ET
+BT
+/F0 11 Tf
+134.937 349.041 Td
+(east.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 318.263 Td
+(west) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 302.874 Td
+(Move) Tj
+ET
+BT
+/F0 11 Tf
+134.937 302.874 Td
+(west.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 272.096 Td
+(attack) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 256.707 Td
+(Attack) Tj
+ET
+BT
+/F0 11 Tf
+138.600 256.707 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+151.734 256.707 Td
+(enemy) Tj
+ET
+BT
+/F0 11 Tf
+183.810 256.707 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+195.118 256.707 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+211.310 256.707 Td
+(area.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 225.929 Td
+(interact) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 210.540 Td
+(Interact) Tj
+ET
+BT
+/F0 11 Tf
+142.868 210.540 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+165.176 210.540 Td
+(objects) Tj
+ET
+BT
+/F0 11 Tf
+199.089 210.540 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+210.397 210.540 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+226.589 210.540 Td
+(area.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 179.762 Td
+(AUTHOR) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 164.373 Td
+(Andrew) Tj
+ET
+BT
+/F0 11 Tf
+125.455 164.373 Td
+(Redinbo) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 133.595 Td
+(SEE) Tj
+ET
+BT
+/F1 11 Tf
+91.564 133.595 Td
+(ALSO) Tj
+ET
+BT
+/F1 11 Tf
+87.274 118.206 Td
+(java) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+110.187 118.206 Td
+(\(1\)) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(kordquest\(6\)) Tj
+ET
+BT
+/F0 11 Tf
+274.065 739.233 Td
+(Games) Tj
+ET
+BT
+/F0 11 Tf
+307.362 739.233 Td
+(Manual) Tj
+ET
+BT
+/F0 11 Tf
+488.048 739.233 Td
+(kordquest\(6\)) Tj
+ET
+BT
+/F0 11 Tf
+68.024 36.245 Td
+(Version) Tj
+ET
+BT
+/F0 11 Tf
+105.600 36.245 Td
+(1.0) Tj
+ET
+BT
+/F0 11 Tf
+285.054 36.245 Td
+(May) Tj
+ET
+BT
+/F0 11 Tf
+307.967 36.245 Td
+(2019) Tj
+ET
+BT
+/F0 11 Tf
+488.048 36.245 Td
+(kordquest\(6\)) Tj
+ET
+endstream
+endobj
+8 0 obj
+7306
+endobj
+9 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 9 0 R
+/Contents 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 612 790]
+/Count 1
+/Kids [ 10 0 R]
+>>
+endobj
+11 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000007917 00000 n 
+0000000030 00000 n 
+0000000112 00000 n 
+0000000193 00000 n 
+0000000276 00000 n 
+0000000363 00000 n 
+0000007721 00000 n 
+0000007741 00000 n 
+0000007836 00000 n 
+0000008000 00000 n 
+trailer
+<<
+/Size 12
+/Root 11 0 R
+/Info 1 0 R
+>>
+startxref
+8050
+%%EOF
